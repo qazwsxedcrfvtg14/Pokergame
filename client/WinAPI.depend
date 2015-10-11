@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1434184682 source:d:\desktop\pokergame2\main.cpp
+	"sevens.h"
+
+1434184914 d:\desktop\pokergame2\jtol.h
+	<bits/stdc++.h>
+	<Winsock2.h>
+	<windows.h>
+	<gdiplus.h>
+	<mmsystem.h>
+	<process.h>
+	<chrono>
+	<ext/rope>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1434186388 d:\desktop\pokergame2\sevens.h
+	"poker_element.h"
+	<windows.h>
+
+1434186618 d:\desktop\pokergame2\poker_element.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	"diagram.h"
+	<ctime>
+	<string>
+
+1434186196 d:\desktop\pokergame2\diagram.h
+	"Jtol.h"
+	<iostream>
+	<cmath>
+	<queue>
+
+1434259102 source:d:\desktop\cl\main.cpp
+	"sevens.h"
+
+1434186388 d:\desktop\cl\sevens.h
+	"poker_element.h"
+	<windows.h>
+
+1434186618 d:\desktop\cl\poker_element.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	"diagram.h"
+	<ctime>
+	<string>
+
+1434186196 d:\desktop\cl\diagram.h
+	"Jtol.h"
+	<iostream>
+	<cmath>
+	<queue>
+
+1434256882 d:\desktop\cl\jtol.h
+	<bits/stdc++.h>
+	<Winsock2.h>
+	<windows.h>
+	<gdiplus.h>
+	<mmsystem.h>
+	<process.h>
+	<chrono>
+	<ext/rope>
+	<GL/gl.h>
+	<GL/glu.h>
+

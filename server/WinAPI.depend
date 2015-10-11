@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1434257255 source:d:\desktop\pokergame2\main.cpp
+	"sevens.h"
+
+1434256885 d:\desktop\pokergame2\jtol.h
+	<bits/stdc++.h>
+	<Winsock2.h>
+	<windows.h>
+	<gdiplus.h>
+	<mmsystem.h>
+	<process.h>
+	<chrono>
+	<ext/rope>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1434259950 d:\desktop\pokergame2\sevens.h
+	"poker_element.h"
+	<windows.h>
+
+1434250789 d:\desktop\pokergame2\poker_element.h
+	<iostream>
+	<iomanip>
+	<algorithm>
+	"diagram.h"
+	<ctime>
+	<string>
+
+1434258203 d:\desktop\pokergame2\diagram.h
+	"Jtol.h"
+	<iostream>
+	<cmath>
+	<queue>
+
